@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tiny Vegan Eatery",
+    "description": "",
+    "home_page_url": "https://tinyveganeatery.github.io/TinyVeganEatery",
+    "feed_url": "https://tinyveganeatery.github.io/TinyVeganEatery/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Yasmin"
+    },
+    "items": [
+    ]
+}
