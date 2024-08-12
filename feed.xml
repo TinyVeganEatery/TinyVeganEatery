@@ -3,10 +3,34 @@
     <title>Tiny Vegan Eatery</title>
     <link href="https://tinyveganeatery.github.io/TinyVeganEatery/feed.xml" rel="self" />
     <link href="https://tinyveganeatery.github.io/TinyVeganEatery" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2024-08-11T18:16:18-04:00</updated>
     <author>
         <name>Yasmin</name>
     </author>
     <id>https://tinyveganeatery.github.io/TinyVeganEatery</id>
 
+    <entry>
+        <title>First recipe</title>
+        <author>
+            <name>Yasmin</name>
+        </author>
+        <link href="https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe.html"/>
+        <id>https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe.html</id>
+            <category term="Recipes"/>
+
+        <updated>2024-08-11T18:16:18-04:00</updated>
+            <summary>
+                <![CDATA[
+                    this is a test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    this is a test
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
