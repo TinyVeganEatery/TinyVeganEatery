@@ -3,29 +3,55 @@
     <title>Tiny Vegan Eatery</title>
     <link href="https://tinyveganeatery.github.io/TinyVeganEatery/feed.xml" rel="self" />
     <link href="https://tinyveganeatery.github.io/TinyVeganEatery" />
-    <updated>2024-08-11T18:16:18-04:00</updated>
+    <updated>2024-08-11T21:34:13-04:00</updated>
     <author>
         <name>Yasmin</name>
     </author>
     <id>https://tinyveganeatery.github.io/TinyVeganEatery</id>
 
     <entry>
+        <title>second post</title>
+        <author>
+            <name>Yasmin</name>
+        </author>
+        <link href="https://tinyveganeatery.github.io/TinyVeganEatery/second-post/"/>
+        <id>https://tinyveganeatery.github.io/TinyVeganEatery/second-post/</id>
+        <media:content url="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/2/lauren-mancke-sil2Hx4iupI-unsplash.jpg" medium="image" />
+
+        <updated>2024-08-11T21:34:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/2/lauren-mancke-sil2Hx4iupI-unsplash.jpg" alt="" />
+                    hi hi hello
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/2/lauren-mancke-sil2Hx4iupI-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>hi hi hello</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>First recipe</title>
         <author>
             <name>Yasmin</name>
         </author>
-        <link href="https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe.html"/>
-        <id>https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe.html</id>
+        <link href="https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe/"/>
+        <id>https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe/</id>
+        <media:content url="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/anne-nygard-OJzEnupZWGM-unsplash.jpg" medium="image" />
             <category term="Recipes"/>
 
-        <updated>2024-08-11T18:16:18-04:00</updated>
+        <updated>2024-08-11T21:33:48-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/anne-nygard-OJzEnupZWGM-unsplash.jpg" alt="" />
                     this is a test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/anne-nygard-OJzEnupZWGM-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     this is a test

@@ -10,11 +10,27 @@
     },
     "items": [
         {
-            "id": "https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe.html",
-            "url": "https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe.html",
+            "id": "https://tinyveganeatery.github.io/TinyVeganEatery/second-post/",
+            "url": "https://tinyveganeatery.github.io/TinyVeganEatery/second-post/",
+            "title": "second post",
+            "summary": "hi hi hello",
+            "content_html": "<p>hi hi hello</p>",
+            "image": "https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/2/lauren-mancke-sil2Hx4iupI-unsplash.jpg",
+            "author": {
+                "name": "Yasmin"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-08-11T21:09:18-04:00",
+            "date_modified": "2024-08-11T21:34:13-04:00"
+        },
+        {
+            "id": "https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe/",
+            "url": "https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe/",
             "title": "First recipe",
             "summary": "this is a test",
             "content_html": "\n  <p>\n    this is a test\n  </p>",
+            "image": "https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/anne-nygard-OJzEnupZWGM-unsplash.jpg",
             "author": {
                 "name": "Yasmin"
             },
@@ -22,7 +38,7 @@
                    "Recipes"
             ],
             "date_published": "2024-08-11T18:16:18-04:00",
-            "date_modified": "2024-08-11T18:16:18-04:00"
+            "date_modified": "2024-08-11T21:33:48-04:00"
         }
     ]
 }
