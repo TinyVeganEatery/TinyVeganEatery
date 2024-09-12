@@ -3,7 +3,7 @@
     <title>Tiny Vegan Eatery</title>
     <link href="https://tinyveganeatery.github.io/TinyVeganEatery/feed.xml" rel="self" />
     <link href="https://tinyveganeatery.github.io/TinyVeganEatery" />
-    <updated>2024-08-11T21:34:13-04:00</updated>
+    <updated>2024-09-11T22:09:55-04:00</updated>
     <author>
         <name>Yasmin</name>
     </author>
@@ -33,28 +33,75 @@
         </content>
     </entry>
     <entry>
-        <title>First recipe</title>
+        <title>Moist Vegan Chocolate Chip Pumpkin Bread</title>
         <author>
             <name>Yasmin</name>
         </author>
-        <link href="https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe/"/>
-        <id>https://tinyveganeatery.github.io/TinyVeganEatery/first-recipe/</id>
-        <media:content url="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/anne-nygard-OJzEnupZWGM-unsplash.jpg" medium="image" />
+        <link href="https://tinyveganeatery.github.io/TinyVeganEatery/moist-vegan-chocolate-chip-pumpkin-bread/"/>
+        <id>https://tinyveganeatery.github.io/TinyVeganEatery/moist-vegan-chocolate-chip-pumpkin-bread/</id>
+        <media:content url="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/D7EF82B3-C799-4C98-A153-ECC06E77E086_1_201_a-2.jpeg" medium="image" />
             <category term="Recipes"/>
 
-        <updated>2024-08-11T21:33:48-04:00</updated>
+        <updated>2024-09-11T22:09:55-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/anne-nygard-OJzEnupZWGM-unsplash.jpg" alt="" />
-                    this is a test
+                        <img src="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/D7EF82B3-C799-4C98-A153-ECC06E77E086_1_201_a-2.jpeg" alt="Vegan Chocolate Chip Pumpkin Bread" />
+                    
+  <p>
+    This moist and fluffy vegan pumpkin bread is bursting with warm pumpkin spice and loaded with rich chocolate and white chocolate chips, making every bite a deliciously sweet treat!
+  </p>
+
+    <figure class="post__image post__image--center">
+      <a href="https://www.instagram.com/reel/C_vRKJeOWmd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+        <img loading="lazy" src="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/Screen-Shot-2024-09-11-at-10.07.09-PM.png" height="480" width="436" alt=""  sizes="(max-width: 48em) 100vw, 100vw" srcset="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/responsive/Screen-Shot-2024-09-11-at-10.07.09-PM-xs.png 300w ,https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/responsive/Screen-Shot-2024-09-11-at-10.07.09-PM-sm.png 480w ,https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/responsive/Screen-Shot-2024-09-11-at-10.07.09-PM-md.png 768w">
+      </a>
+      
+    </figure>
+
+  <p>
+    This loaf is guaranteed to win over any pumpkin spice skeptic! It's nearly impossible to stop at just one slice.<br><br>The blend of brown sugar, pumpkin, non-dairy buttermilk, and olive oil creates an irresistibly soft and fluffy texture. I experimented with different variations, like using maple syrup, less sugar, less oil, and egg replacers, but those tweaks always led to a drier loaf. This version is the clear winner!
+  </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/anne-nygard-OJzEnupZWGM-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/D7EF82B3-C799-4C98-A153-ECC06E77E086_1_201_a-2.jpeg" class="type:primaryImage" alt="Vegan Chocolate Chip Pumpkin Bread" /></p>
                 
   <p>
-    this is a test
+    This moist and fluffy vegan pumpkin bread is bursting with warm pumpkin spice and loaded with rich chocolate and white chocolate chips, making every bite a deliciously sweet treat!
+  </p>
+
+    <figure class="post__image post__image--center">
+      <a href="https://www.instagram.com/reel/C_vRKJeOWmd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+        <img loading="lazy" src="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/Screen-Shot-2024-09-11-at-10.07.09-PM.png" height="480" width="436" alt=""  sizes="(max-width: 48em) 100vw, 100vw" srcset="https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/responsive/Screen-Shot-2024-09-11-at-10.07.09-PM-xs.png 300w ,https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/responsive/Screen-Shot-2024-09-11-at-10.07.09-PM-sm.png 480w ,https://tinyveganeatery.github.io/TinyVeganEatery/media/posts/1/responsive/Screen-Shot-2024-09-11-at-10.07.09-PM-md.png 768w">
+      </a>
+      
+    </figure>
+
+  <p>
+    This loaf is guaranteed to win over any pumpkin spice skeptic! It's nearly impossible to stop at just one slice.<br><br>The blend of brown sugar, pumpkin, non-dairy buttermilk, and olive oil creates an irresistibly soft and fluffy texture. I experimented with different variations, like using maple syrup, less sugar, less oil, and egg replacers, but those tweaks always led to a drier loaf. This version is the clear winner!
+  </p>
+
+
+  <p>
+    <b>Equipment</b><br>1-pound loaf pan (I recommend <a href="https://amzn.to/3Zkwmuy" target="_blank" class="" data-link-popup-id="296018da-b695-487e-9edc-8d805ae6cd58">this</a> one)
+  </p>
+
+  <p>
+    <b>Ingredients</b><br>118ml soy milk&nbsp;<br>1½ teaspoons apple cider vinegar<br>250g canned pumpkin puree (make sure it’s not pumpkin pie filling)<br>200g coconut sugar<br>118ml olive oil&nbsp;<br>1 Tablespoon vanilla extract<br>250g Spelt flour<br>2½ teaspoons baking powder<br>½ teaspoon baking soda<br>1 Tablespoon pumpkin spice mix&nbsp;<br>1 teaspoon ground cinnamon<br>¼ teaspoon sea salt<br>50g chocolate chips (I used <a href="https://amzn.to/3TswODj">these</a>)<br>50g white chocolate chips (I used <a href="https://amzn.to/4ei3nMi">these</a>)<br>
+  </p>
+
+  <p>
+    <b>Instructions</b><br><i>Tip: For the best results, use a digital scale and measure ingredients in grams.</i>
+  </p>
+
+  <p>
+    <i><br></i>Preheat the oven: Set your oven to 350°F. Lightly grease a <a href="https://amzn.to/3Zkwmuy">1-pound loaf pan</a> with oil or vegan butter.<br><br>Mix the wet ingredients: In a large mixing bowl, whisk together the soy milk, pumpkin puree, olive oil, and vanilla extract until smooth and well combined.<br><br>Mix the dry ingredients: In a separate bowl, whisk together the flour, coconut sugar, baking powder, baking soda, pumpkin spice mix, cinnamon, and salt.<br><br>Prepare the batter: Gradually add the wet ingredients to the dry ingredients in two parts. Gently fold the mixture after each addition until no dry pockets remain. Be careful not to over mix. Once combined, fold in the chocolate and white chocolate chips evenly throughout the batter.<br><br>Assemble the loaf: Pour the batter into the prepared loaf pan and smooth the top with a spatula or knife. Sprinkle generously with more chocolate chips.&nbsp;<br><br><b>Bake</b>: Place the pan on an aluminum baking sheet or tray, and bake for 50-60 minutes. The loaf should double, and the top will turn golden brown. Check for doneness around the 50-minute mark by inserting a toothpick or knife into the center; it should come out clean or with a few crumbs. If necessary, bake in additional 5-minute intervals until done.<br><br><b>Storage</b>:<br><i>At room temperature:</i> Once cooled, wrap any leftovers tightly in plastic wrap or foil, or place them in an airtight container. It will keep for up to 5 days at room temperature, as long as the environment isn’t too warm.<br><i>In the fridge:</i> The loaf can also be refrigerated for up to 7 days.<br><i>To freeze:</i> Slice the bread and separate the slices with parchment paper. Wrap well or place them in a sealed container. Freeze for up to 1 month. To defrost, let the slices thaw at room temperature for a couple of hours.<br><br>
+  </p>
+
+  <p>
+    
   </p>
             ]]>
         </content>
